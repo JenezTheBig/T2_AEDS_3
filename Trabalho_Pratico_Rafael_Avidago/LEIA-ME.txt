@@ -1,0 +1,8 @@
+Trabalho Feito Por: João Victor Ottoni Garcia e Rafael Carvalho Avidago Geraldo
+
+Listagem de arquivos: estrategias.h, main.c, uteis.c, uteis.h, makefile, ProgA.c ProgD.c entrada.txt, saida.txt, DOCTP2.pdf
+
+O codigo foi feito no VSCODE utilizando WSL.
+
+Para compilar o programa digite o comando 'make' no terminal.
+Para rodar o programa digite './tp2 [ESTRATEGIA(A) ou (D)] [entrada.txt] [saida.txt]
